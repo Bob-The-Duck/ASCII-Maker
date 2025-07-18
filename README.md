@@ -23,7 +23,7 @@ Projekt wymaga Pythona 3.x oraz kilku bibliotek zewnętrznych.
 
 Aby uruchomić projekt, wykonaj następujące kroki:
 
-1.  **Pobierz plik `ASCII-GEN.py`** (lub sklonuj repozytorium, jeśli jest dostępne).
+1.  **Pobierz plik `main.py`** (lub sklonuj repozytorium, jeśli jest dostępne).
 
 2.  **Zainstaluj wymagane biblioteki** za pomocą `pip`. Możesz to zrobić, tworząc plik `requirements.txt` w tym samym folderze co skrypt, a następnie uruchamiając `pip install -r requirements.txt`.
 
@@ -42,10 +42,10 @@ Aby uruchomić projekt, wykonaj następujące kroki:
 
 ## Użycie
 
-Po zainstalowaniu zależności, możesz uruchomić skrypt `ASCII-GEN.py` z terminala:
+Po zainstalowaniu zależności, możesz uruchomić skrypt `main.py` z terminala:
 
 ```bash
-python ASCII-GEN.py
+python main.py
 ```
 
 Aplikacja poprowadzi Cię przez proces:
