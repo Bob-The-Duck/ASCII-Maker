@@ -1,4 +1,4 @@
-Dobrze, rozumiem\! To jest skrypt do generowania tekstu ASCII z użyciem różnych czcionek. Stworzę dla niego plik README.md.
+
 
 -----
 
